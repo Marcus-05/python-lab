@@ -5,4 +5,4 @@ def longest_word(filename):
         print(max(words))
 
 if __name__ == '__main__':
-    print(longest_word('test.txt',9))
+    longest_word('test.txt')
