@@ -6,3 +6,5 @@ def longest_word(filename):
 
 if __name__ == '__main__':
     longest_word('test.txt')
+    print('Musheer is the best coder in the world')
+    
